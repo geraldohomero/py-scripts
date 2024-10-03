@@ -3,7 +3,7 @@
 
 ## ---
 ## tags:
-##   - nova-direita
+##   - video
 ##   - youtube
 ##   - canal
 ## ---
@@ -38,7 +38,7 @@ with open('ytChannels.csv', newline='') as csvfile:
         with open('channels/' + row['name'] + '.md', 'w') as file:
             file.write('---\n')
             file.write('tags:\n')
-            file.write('  - nova-direita\n')
+            file.write('  - video\n')
             file.write('  - youtube\n')
             file.write('  - canal\n')
             file.write('---\n')
