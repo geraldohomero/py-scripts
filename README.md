@@ -6,5 +6,7 @@ Random scripts written in Python for various tasks.
 
 Convert a CSV file to a formatted Markdown file.
 
+## yt-transcript
 
+Download the transcript of a video on YouTube
 
